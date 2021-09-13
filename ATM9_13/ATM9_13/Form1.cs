@@ -26,10 +26,7 @@ namespace ATM9_13
             InputDialog inputDialog = new InputDialog();
             inputDialog.Show();
             inputDialog.textHander = (str) => { 
-                if(int.Parse(str) >= 10000)
-                {
-                    MessageBox.Show("本次交易金额较大，请确认操作信息");
-                }
+                
                 if (!bank.UserAccount.WithdrawMoney(int.Parse(str)))
                 {
                     MessageBox.Show("取款失败");
@@ -50,5 +47,12 @@ namespace ATM9_13
             moneyText.Text = bank.UserAccount.Money.ToString();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            bank.UserAccount.BigMoneyFetched += (s, ev) =>
+            {
+                MessageBox.Show("本次交易金额较大，请确认操作信息");
+            };
+        }
     }
 }

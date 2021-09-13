@@ -9,6 +9,9 @@ namespace ATM9_13.Properties
     class CreditAccount : Account
     {
         public int Money { private set; get; }
+
+
+        public event EventHandler<int> BigMoneyFetched;
         protected override void ShowDetail()
         {
             base.ShowDetail();
@@ -29,6 +32,11 @@ namespace ATM9_13.Properties
            
             try
             {
+                if(num > 10000)
+                {
+                    BigMoneyFetched?.Invoke(this, num);
+                }
+
                 Random r = new Random();
                 if(r.Next(0,100) < 30)
                 {

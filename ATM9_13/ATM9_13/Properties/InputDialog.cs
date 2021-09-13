@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -15,6 +16,8 @@ namespace ATM9_13.Properties
         public delegate void TextEventHander(string strText);
 
         public TextEventHander textHander;
+
+        public event TextEventHander TextEnter;
 
         public InputDialog()
         {
@@ -28,11 +31,11 @@ namespace ATM9_13.Properties
 
         private void click_OK_Click(object sender, EventArgs e)
         {
-            if(textHander != null)
+            if (textHander != null)
             {
-                textHander.Invoke(inputText.Text);
+                textHander(inputText.Text);
+                
                 Close();
-                //DialogResult = DialogResult.OK;
             }
         }
 
