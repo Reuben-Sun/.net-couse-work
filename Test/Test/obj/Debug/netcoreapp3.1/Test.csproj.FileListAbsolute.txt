@@ -1,0 +1,13 @@
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\code\vs\CouseWork.net\.net couse work\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
