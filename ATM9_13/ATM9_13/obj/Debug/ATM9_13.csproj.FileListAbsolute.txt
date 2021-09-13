@@ -1,0 +1,11 @@
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\bin\Debug\ATM9_13.exe.config
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\bin\Debug\ATM9_13.exe
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\bin\Debug\ATM9_13.pdb
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.csprojAssemblyReference.cache
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.Form1.resources
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.Properties.Resources.resources
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.exe
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.pdb
+D:\code\vs\CouseWork.net\.net couse work\ATM9_13\ATM9_13\obj\Debug\ATM9_13.Properties.InputDialog.resources
