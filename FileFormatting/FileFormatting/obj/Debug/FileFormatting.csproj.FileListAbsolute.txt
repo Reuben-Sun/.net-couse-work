@@ -1,0 +1,9 @@
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\bin\Debug\FileFormatting.exe.config
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\bin\Debug\FileFormatting.exe
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\bin\Debug\FileFormatting.pdb
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\obj\Debug\FileFormatting.csprojAssemblyReference.cache
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\obj\Debug\FileFormatting.Properties.Resources.resources
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\obj\Debug\FileFormatting.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\obj\Debug\FileFormatting.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\obj\Debug\FileFormatting.exe
+D:\code\vs\CouseWork.net\.net couse work\FileFormatting\FileFormatting\obj\Debug\FileFormatting.pdb
