@@ -1,0 +1,10 @@
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\bin\Debug\FileBrower.exe.config
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\bin\Debug\FileBrower.exe
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\bin\Debug\FileBrower.pdb
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\obj\Debug\FileBrower.csproj.AssemblyReference.cache
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\obj\Debug\FileBrower.Form1.resources
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\obj\Debug\FileBrower.Properties.Resources.resources
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\obj\Debug\FileBrower.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\obj\Debug\FileBrower.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\obj\Debug\FileBrower.exe
+D:\code\vs\CouseWork.net\.net couse work\FileBrower\FileBrower\obj\Debug\FileBrower.pdb
