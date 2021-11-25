@@ -1,0 +1,56 @@
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\SQLite_study.exe.config
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\SQLite_study.exe
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\SQLite_study.pdb
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.Form1.resources
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.Properties.Resources.resources
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.GenerateResource.cache
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.CoreCompileInputs.cache
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.CopyComplete
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.exe
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.pdb
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.core.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Buffers.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Memory.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Buffers.xml
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Memory.xml
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\code\vs\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\code\vs\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.AssemblyReference.cache
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\SQLite_study.exe.config
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\SQLite_study.exe
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\SQLite_study.pdb
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.core.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Buffers.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Memory.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Buffers.xml
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Memory.xml
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.AssemblyReference.cache
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.Form1.resources
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.Properties.Resources.resources
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.GenerateResource.cache
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.CoreCompileInputs.cache
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.csproj.CopyComplete
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.exe
+D:\code\vs\CouseWork.net\.net couse work\SQLite_study\SQLite_study\obj\x64\Debug\SQLite_study.pdb

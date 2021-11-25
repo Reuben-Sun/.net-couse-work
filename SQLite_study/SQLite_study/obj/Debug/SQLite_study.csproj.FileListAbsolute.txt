@@ -1,0 +1,12 @@
+D:\code\vs\SQLite_study\SQLite_study\bin\Debug\SQLite_study.exe.config
+D:\code\vs\SQLite_study\SQLite_study\bin\Debug\SQLite_study.exe
+D:\code\vs\SQLite_study\SQLite_study\bin\Debug\SQLite_study.pdb
+D:\code\vs\SQLite_study\SQLite_study\bin\Debug\System.Data.SQLite.dll
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.csprojAssemblyReference.cache
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.Form1.resources
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.Properties.Resources.resources
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.csproj.GenerateResource.cache
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.csproj.CoreCompileInputs.cache
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.csproj.CopyComplete
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.exe
+D:\code\vs\SQLite_study\SQLite_study\obj\Debug\SQLite_study.pdb
